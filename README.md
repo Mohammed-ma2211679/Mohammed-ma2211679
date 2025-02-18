@@ -1,17 +1,18 @@
-<h1 align="center">Howdy👋, I'm Mohammed Abdullah</h1>
+<p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4029a055389655.59822ff823c19.gif" title="A cool GIF by https://www.onlygraphicdesign.com/" alt="A cool GIF by https://www.onlygraphicdesign.com/" height="200" width="250"></p>
+<h1 align="center">Howdy👋, Mohammed Abdullah is Here</h1>
 <h3 align="center">A passionate Computer Science Student at Qatar University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-ma2211679&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-ma2211679" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/@m_abdulqader0" target="blank"><img src="https://img.shields.io/twitter/follow/@m_abdulqader0?logo=twitter&style=for-the-badge" alt="@m_abdulqader0" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@m_abdulqader0" target="blank"><img src="https://img.shields.io/twitter/follow/@m_abdulqader0?logo=twitter&style=for-the-badge" alt="@m_abdulqader0" title="twitter account: @m_abdulqader0" /></a> </p>
 
 - 🔭 I’m currently working on [QU StudyPlan manager](https://github.com/Mohammed-ma2211679/my-website.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://matrix.to/#/@m.abdulqader:matrix.org" target="blank"><img align="center" src="https://matrix.org/images/matrix-logo-white.svg" alt="@m.abdulqader:matrix.org" height="50" width="50" /></a>
-<a href="https://t.me/mohammedabdullah0" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2020/10/17/13/21/telegram-5662082_1280.png" alt="@mohammedabdullah0" height="40" width="40" /></a>
+<a href="https://matrix.to/#/@m.abdulqader:matrix.org" target="blank"><img align="center" src="https://matrix.org/images/matrix-logo-white.svg" alt="@m.abdulqader:matrix.org" height="50" width="50" title="Matrix account: @m.abdulqader:matrix.org" /></a>
+<a href="https://t.me/mohammedabdullah0" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2020/10/17/13/21/telegram-5662082_1280.png" alt="@mohammedabdullah0" height="40" width="40" title="Telegram account: @mohammedabdullah0" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
