@@ -12,6 +12,8 @@
 <p align="left">
 <a href="https://matrix.to/#/@m.abdulqader:matrix.org" target="blank"><img align="center" src="https://matrix.org/images/matrix-logo-white.svg" alt="@m.abdulqader:matrix.org" height="50" width="50" title="Matrix account: @m.abdulqader:matrix.org" /></a>
 <a href="https://t.me/mohammedabdullah0" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2020/10/17/13/21/telegram-5662082_1280.png" alt="@mohammedabdullah0" height="40" width="40" title="Telegram account: @mohammedabdullah0" /></a>
+<a href="https://bsky.app/profile/mohammed-abdullah.bsky.social" target="blank"><img align="center" src="https://polymarket.com/_next/image?url=https%3A%2F%2Fpolymarket-upload.s3.us-east-2.amazonaws.com%2F30m-bluesky-users-in-november-UzmiV68Y_6yH.jpg&w=96&q=100" alt="@mohammed-abdullah.bsky.social" height="40" width="40" title="Bluesky account: @mohammed-abdullah.bsky.social" /></a>
+  <a href="https://mastodon.social/@MohammedAbdullah" target="blank"><img align="center" src="https://mastodon.social/packs/media/images/logo-d4b5dc90fd3e117d141ae7053b157f58.svg" alt="@MohammedAbdullah@mastodon.social" height="40" width="40" title="Mastodon account: @MohammedAbdullah@mastodon.social" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
